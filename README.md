@@ -1,3 +1,6 @@
+
+[![ImageLayers](https://imagelayers.io/badge/sonatype/nexus3:latest.svg)](https://imagelayers.io/?images=sonatype/nexus3:latest 'badge on imagelayers.io')
+
 # Sonatype Nexus3 Docker: sonatype/nexus3
 
 A Dockerfile for Sonatype Nexus Repository Manager 3, based on CentOS.
